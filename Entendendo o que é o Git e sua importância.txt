@@ -1,0 +1,2 @@
+O Git é um sistema de controle de versões distribuído que foi criado pelo engenheiro de software Linus Torvalds, conhecido também por ter desenvolvido o núcleo Linux.
+
